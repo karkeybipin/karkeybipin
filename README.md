@@ -1,0 +1,9 @@
+## pleasure to assist you!!! hey there...
+
+- 🌱 I’m currently learning ...
+- 👯 ...
+- 🤔 I’m looking for help
+- 💬 Ask me about coding information(php, java, javascript,...)
+- 📫 How to reach me: Github social profiles links
+- ✏️ Drawing(7/10) progressing
+- 🧑‍💻 Ask me about tech and automobile information
