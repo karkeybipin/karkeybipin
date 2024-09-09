@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bipin Karkey</h1>
-<h3 align="center">A passionate software developer from Nepal</h3>
+<h3 align="center">A passionate learner from Nepal</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=karkeybipin&label=Profile%20views&color=0e75b6&style=flat" alt="karkeybipin" /> 
