@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bipin Karkey</h1>
 <h3 align="center">A passionate learner from Nepal</h3>
 
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=karkeybipin&label=Profile%20views&color=0e75b6&style=flat" alt="karkeybipin" /> 
   <a href="https://github.com/karkeybipin?tab=followers">
@@ -62,10 +63,3 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karkeybipin&show_icons=true&locale=en&layout=compact&theme=radical" alt="karkeybipin" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karkeybipin&show_icons=true&locale=en&theme=radical" alt="karkeybipin" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karkeybipin&theme=radical" alt="karkeybipin" />
-</p>
