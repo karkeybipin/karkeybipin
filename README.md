@@ -34,10 +34,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="blank">
+  <a href="https://www.linkedin.com/in/bipin-karkey-18bb2322a/" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-profile" target="blank">
+  <a href="https://x.com/karkeybipin" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="Twitter"/>
   </a>
 </p>
