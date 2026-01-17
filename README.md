@@ -23,8 +23,8 @@
 ### 📫 How to Reach Me
 - **Email:** karkeybipin@gmail.com
 
-### ⚡ Fun Fact
-- I tell dad jokes... and sometimes people laugh! 😄
+### ⚡ my speciality
+- ! 😄 I crack something funny out of blue... and people laugh
 
 ---
 
